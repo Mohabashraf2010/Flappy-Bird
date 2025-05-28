@@ -1,0 +1,11 @@
+E:\Mohab's Game Exam\Exam\Exam\bin\Debug\Exam.exe.config
+E:\Mohab's Game Exam\Exam\Exam\bin\Debug\Exam.exe
+E:\Mohab's Game Exam\Exam\Exam\bin\Debug\Exam.pdb
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.Form1.resources
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.exe
+E:\Mohab's Game Exam\Exam\Exam\obj\Debug\Exam.pdb
